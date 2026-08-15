@@ -1,19 +1,18 @@
 Hi, I’m Myasem 👋
 
-🤖 AI Student
-
-🦾 Exploring Robotics & Mechatronics
-
-💡 Interested in AI, Automation & Intelligent Systems
-
-
-⸻
-
 👩🏻‍💻 About Me
 
 I’m an AI student passionate about Artificial Intelligence, robotics, and technology.
 
 I’m currently learning Arduino, Robotics & Mechatronics while building my programming and AI skills through projects and hands-on experimentation.
+
+⸻
+
+🤖 AI Student
+
+🦾 Exploring Robotics & Mechatronics
+
+💡 Interested in AI, Automation & Intelligent Systems
 
 ⸻
 
