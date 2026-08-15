@@ -1,8 +1,11 @@
 Hi, I’m Myasem 👋
 
 🤖 AI Student
+
 🦾 Exploring Robotics & Mechatronics
+
 💡 Interested in AI, Automation & Intelligent Systems
+
 
 ⸻
 
