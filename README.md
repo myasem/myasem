@@ -16,12 +16,12 @@ I’m currently learning Arduino, Robotics & Mechatronics while building my prog
 
 🛠️ Skills & Learning
 
-* 🐍 Python
-* ☕ Java
-* 🤖 Artificial Intelligence
-* 🔧 Arduino
-* 🦾 Robotics
-* ⚙️ Mechatronics
+*  Python
+*  Java
+*  Artificial Intelligence
+*  Arduino
+*  Robotics
+*  Mechatronics
 
 ⸻
 
